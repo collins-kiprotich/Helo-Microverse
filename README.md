@@ -31,8 +31,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/collins-kiprotich)
-- Twitter: [@twitterhandle](https://twitter.com/Jcee01188383)
+- GitHub: (https://github.com/collins-kiprotich)
+- Twitter:(https://twitter.com/Jcee01188383)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/collins-kiprotich-152b52246/)
 
 ## 🤝 Contributing
