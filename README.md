@@ -21,17 +21,6 @@ To get a local copy up and running follow these simple example steps.
 -Text Editor eg vscode
 -git $ github
 
-### Setup
-
-### Install
-
-### Usage
-
-
-
-### Deployment
-
-
 
 ## Authors
 
@@ -42,20 +31,13 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: https://linkedin.com/in/collins-kiprotich-152b52246
 
 
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
-Give a ⭐️ if you like this project!
-rating ⭐️⭐️⭐️⭐️
+Project rating ⭐️⭐️⭐️⭐️⭐️
 
 ## Acknowledgments
 -Ellon Mordecai-Learning partner
+-Charles Lengushuru -Standup member
 
 
 ## 📝 License
