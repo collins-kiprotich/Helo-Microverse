@@ -11,18 +11,14 @@ hello microverse project
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 -You need to have git and a text editor like vscode
 
 ### Setup
--on your git terminal clone the repository of this project[repo;https://github.com/collins-kiprotich/Helo-Microverse.git] using command git clone (repo) 
--From the terminal switch from main branch to my-workspace branch
+-on your terminal clone the repository of this project[repo;https://github.com/collins-kiprotich/Helo-Microverse.git] using command git clone (repo) 
+-From your terminal switch from main branch to my-workspace branch
 -Then open the  index.html file using your preferred text editor and run it on your browser.
 
 
@@ -33,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: (https://github.com/collins-kiprotich)
 - Twitter:(https://twitter.com/Jcee01188383)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/collins-kiprotich-152b52246/)
+- LinkedIn: (https://linkedin.com/in/collins-kiprotich-152b52246/)
 
 ## 🤝 Contributing
 
@@ -48,7 +44,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse staff
-- coding partners
+- coding partners at microverse community
 
 ## 📝 License
 
